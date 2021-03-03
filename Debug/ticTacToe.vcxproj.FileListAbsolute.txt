@@ -1,0 +1,2 @@
+D:\homework\c\basic\ticTacToe\Debug\ticTacToe.exe
+D:\homework\c\basic\ticTacToe\Debug\ticTacToe.pdb
